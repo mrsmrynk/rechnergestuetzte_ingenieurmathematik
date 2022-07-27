@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/mrsmrynk/rechnergestuetzte_ingenieurmathematik?color=%20%2371b127&style=flat)
+[![GitHub](https://img.shields.io/github/license/mrsmrynk/rechnergestuetzte_ingenieurmathematik?color=%20%2371b127&style=flat)](https://github.com/mrsmrynk/rechnergestuetzte_ingenieurmathematik/blob/main/LICENSE)
 
 This repo contains the essential notebooks for most of the types of tasks in the module **Rechnergestützte Ingenieurmathematik** of the Electrical Engineering (M. Eng.) degree programme at **Westfälische Hochschule**.
 
